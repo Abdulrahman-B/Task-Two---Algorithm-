@@ -1,13 +1,22 @@
 # Task-Two---Algorithm-
 •	Connect Beacon chip to data base.
+
 •	Attach Beacon chip to visitors’ pass.
+
 •	Always record the location of all visitors .
+
 •	Limit the number of visitors as shown below.
+
 •	Collect data from the Beacon chip.
+
 •	If the visitors are 1-meter apar Then do nothing.
+
 •	If the visitors are too close to each other send a warning to data base and the inform the visitors through their mobile phones.
+
 •	Collect data on where the visitors get too close.
+
 •	Analyze the data from the first day and re arrange the gallery accordingly.
+
 ------------------------------------------
 Applying Social Distancing: 
 Firstly, we get the area of the hall itself and then divide the area to segments, as if each visitor will get a certain area ( 1m2 ), thus limiting the number of visitors at the same time to the number “X” which insure that visitors will be at least 1 meter apart. 
